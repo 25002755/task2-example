@@ -1,4 +1,4 @@
-# Input example
+# Initial calculator structure
 name = input("Enter your name: ")
 print("Hello", name)
 
