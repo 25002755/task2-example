@@ -1,4 +1,5 @@
 # Initial calculator structure
+# Added basic Python examples and variables
 name = input("Enter your name: ")
 print("Hello", name)
 
