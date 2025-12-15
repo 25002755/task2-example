@@ -1,6 +1,7 @@
 # Initial calculator structure
 # Added basic Python examples and variables
 # Added loop and list examples
+# Final improvements and testing
 name = input("Enter your name: ")
 print("Hello", name)
 
